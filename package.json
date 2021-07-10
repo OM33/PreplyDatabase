@@ -1,0 +1,26 @@
+{
+  "name": "api-rest-nodejs",
+  "version": "1.0.0",
+  "description": "Api rest de base de datos de estudiantes de idiomas ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OM33/PreplyDatabase.git"
+  },
+  "author": "Olga Marin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OM33/PreplyDatabase/issues"
+  },
+  "homepage": "https://github.com/OM33/PreplyDatabase#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2",
+    "nodemon": "^2.0.9"
+  }
+}
